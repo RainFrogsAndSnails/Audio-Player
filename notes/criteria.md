@@ -1,0 +1,21 @@
+# Project Requirements Checklist
+
+- [x] Add an h1 element for the main title of the page
+- [x] Add two section elements
+- [x] First section requirements:
+  - [x] Add an h2 element for the video title
+  - [x] Add a video element with:
+    - [x] controls attribute
+    - [x] width attribute set to 640
+    - [x] source element inside with:
+      - [x] src attribute (can use `https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4`)
+      - [x] type attribute
+- [x] Second section requirements:
+  - [x] Add an h2 element for the song title
+  - [x] Add an audio element with:
+    - [x] controls attribute
+    - [x] loop attribute
+    - [x] src attribute pointing to an audio file
+      - Options:
+      - `https://cdn.freecodecamp.org/curriculum/js-music-player/sailing-away.mp3`
+      - `https://cdn.freecodecamp.org/curriculum/js-music-player/we-are-going-to-make-it.mp3`
